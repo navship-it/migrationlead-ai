@@ -1,0 +1,20 @@
+{
+  "disclosure": "Synthetic simulation only. No demonstrated client impact. Outcomes assumed complete by 2026-02-02.",
+  "train_rows": 3315,
+  "test_rows": 1277,
+  "test_conversion_rate": 0.13469068128425998,
+  "ml": {
+    "precision_at_20pct": 0.2734375,
+    "conversion_capture_at_20pct": 0.4069767441860465,
+    "average_precision": 0.3039789489604357,
+    "brier_score": 0.10892824232903024
+  },
+  "rules": {
+    "precision_at_20pct": 0.22265625,
+    "conversion_capture_at_20pct": 0.3313953488372093
+  },
+  "newest_first": {
+    "precision_at_20pct": 0.14453125,
+    "conversion_capture_at_20pct": 0.21511627906976744
+  }
+}

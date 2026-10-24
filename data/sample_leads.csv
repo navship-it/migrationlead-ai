@@ -1,0 +1,101 @@
+lead_id,enquiry_date,source,service,response_hours,consultation_booked,interactions_48h,recency_hours
+DEMO-01706,2025-12-25,Website,Skilled migration,30.0,1,4,5.0
+DEMO-01829,2025-12-25,WhatsApp,Work permit,28.9,0,0,39.2
+DEMO-00140,2025-12-25,WhatsApp,Work permit,1.5,0,4,22.2
+DEMO-03269,2025-12-25,Referral,Skilled migration,38.2,1,3,43.8
+DEMO-02689,2025-12-25,Social media,Work permit,10.5,0,3,35.0
+DEMO-04089,2025-12-25,WhatsApp,Skilled migration,10.0,0,0,18.3
+DEMO-04088,2025-12-25,Website,Study,5.4,1,2,31.9
+DEMO-00554,2025-12-26,Referral,Skilled migration,44.9,0,0,6.3
+DEMO-04962,2025-12-26,Social media,Work permit,6.0,1,3,11.6
+DEMO-01456,2025-12-26,WhatsApp,Work permit,32.3,0,2,44.6
+DEMO-03745,2025-12-26,Referral,Work permit,22.2,0,3,29.1
+DEMO-01202,2025-12-26,Website,Work permit,10.1,0,1,28.7
+DEMO-02034,2025-12-26,Social media,Work permit,44.0,1,3,13.5
+DEMO-01245,2025-12-26,WhatsApp,Tourist,19.3,1,3,8.4
+DEMO-01392,2025-12-26,WhatsApp,Study,36.1,1,5,38.3
+DEMO-03218,2025-12-26,WhatsApp,Work permit,0.8,0,2,24.9
+DEMO-03747,2025-12-26,Website,Work permit,23.6,0,1,34.2
+DEMO-04122,2025-12-26,Social media,Skilled migration,23.8,0,3,28.7
+DEMO-03784,2025-12-26,WhatsApp,Skilled migration,41.4,1,0,28.9
+DEMO-04651,2025-12-26,WhatsApp,Work permit,43.1,0,2,29.1
+DEMO-03592,2025-12-26,Website,Tourist,32.5,0,4,43.9
+DEMO-01827,2025-12-26,Website,Work permit,2.9,0,4,3.2
+DEMO-03778,2025-12-26,Website,Work permit,19.6,0,2,36.0
+DEMO-01569,2025-12-26,Website,Study,16.7,1,6,23.4
+DEMO-01227,2025-12-26,Referral,Tourist,17.2,0,1,43.1
+DEMO-03403,2025-12-26,Social media,Tourist,22.9,1,1,4.1
+DEMO-03360,2025-12-26,Website,Tourist,18.8,0,0,20.2
+DEMO-04523,2025-12-27,Referral,Skilled migration,1.0,1,3,28.7
+DEMO-03411,2025-12-27,Social media,Work permit,28.6,0,3,39.7
+DEMO-00771,2025-12-27,Website,Skilled migration,7.5,0,4,18.6
+DEMO-04101,2025-12-27,Website,Skilled migration,6.1,0,1,25.3
+DEMO-02652,2025-12-27,WhatsApp,Skilled migration,2.1,1,2,5.2
+DEMO-03977,2025-12-27,WhatsApp,Study,41.1,0,2,17.5
+DEMO-02378,2025-12-27,WhatsApp,Skilled migration,8.4,0,3,23.2
+DEMO-04134,2025-12-27,Website,Tourist,23.4,0,2,4.9
+DEMO-02038,2025-12-27,Social media,Tourist,34.0,1,0,43.6
+DEMO-04600,2025-12-27,Referral,Study,7.0,0,0,37.8
+DEMO-03370,2025-12-27,Social media,Work permit,21.8,0,2,1.0
+DEMO-04773,2025-12-27,Website,Tourist,6.6,0,3,16.1
+DEMO-01746,2025-12-27,Website,Work permit,22.6,0,5,12.1
+DEMO-01961,2025-12-27,WhatsApp,Tourist,1.2,0,1,2.1
+DEMO-04692,2025-12-28,Referral,Study,4.1,0,1,9.2
+DEMO-00264,2025-12-28,Social media,Tourist,30.5,0,3,1.1
+DEMO-04992,2025-12-28,Social media,Skilled migration,23.4,1,3,15.4
+DEMO-04265,2025-12-28,WhatsApp,Study,3.3,1,1,36.1
+DEMO-00346,2025-12-28,WhatsApp,Skilled migration,24.3,0,3,43.8
+DEMO-03148,2025-12-28,Website,Work permit,12.7,0,4,29.2
+DEMO-02754,2025-12-28,Website,Tourist,33.2,0,1,6.3
+DEMO-03725,2025-12-28,Referral,Study,11.9,0,3,8.0
+DEMO-04717,2025-12-28,Website,Work permit,16.5,1,1,30.7
+DEMO-03533,2025-12-28,WhatsApp,Skilled migration,25.5,0,2,33.3
+DEMO-01087,2025-12-28,WhatsApp,Tourist,21.0,1,0,2.3
+DEMO-04791,2025-12-28,WhatsApp,Skilled migration,34.4,0,4,16.7
+DEMO-02375,2025-12-28,Social media,Work permit,17.2,0,0,9.4
+DEMO-02802,2025-12-28,Referral,Work permit,29.3,1,0,41.8
+DEMO-01081,2025-12-28,WhatsApp,Skilled migration,17.4,0,2,23.8
+DEMO-04520,2025-12-28,WhatsApp,Skilled migration,13.3,0,2,39.2
+DEMO-01619,2025-12-28,Website,Skilled migration,40.9,0,1,22.7
+DEMO-03278,2025-12-29,Website,Study,35.7,0,4,7.9
+DEMO-02259,2025-12-29,Website,Study,11.7,0,1,12.1
+DEMO-04295,2025-12-29,Website,Skilled migration,35.4,0,1,33.5
+DEMO-01997,2025-12-29,WhatsApp,Skilled migration,5.2,0,3,43.7
+DEMO-00355,2025-12-29,Social media,Study,38.0,0,4,43.6
+DEMO-04215,2025-12-29,Website,Tourist,41.7,0,3,47.6
+DEMO-01625,2025-12-29,Referral,Tourist,46.0,1,0,10.4
+DEMO-02616,2025-12-29,Referral,Study,45.3,0,0,34.7
+DEMO-02045,2025-12-29,Website,Study,13.2,0,1,36.5
+DEMO-02767,2025-12-29,WhatsApp,Skilled migration,14.0,0,0,22.2
+DEMO-00144,2025-12-29,Referral,Study,33.3,0,0,44.1
+DEMO-03723,2025-12-29,Referral,Skilled migration,23.1,1,1,16.9
+DEMO-03237,2025-12-29,WhatsApp,Study,18.7,1,2,17.3
+DEMO-00510,2025-12-30,WhatsApp,Tourist,46.4,0,1,7.8
+DEMO-03620,2025-12-30,Website,Skilled migration,43.2,0,1,35.3
+DEMO-04621,2025-12-30,Referral,Work permit,34.4,0,4,28.6
+DEMO-02519,2025-12-30,Website,Study,34.8,0,0,28.4
+DEMO-00160,2025-12-30,WhatsApp,Skilled migration,20.3,1,2,11.7
+DEMO-02955,2025-12-30,Website,Work permit,37.5,1,0,7.0
+DEMO-00809,2025-12-30,WhatsApp,Tourist,46.6,0,3,36.6
+DEMO-03157,2025-12-30,Website,Skilled migration,36.4,1,3,17.7
+DEMO-00690,2025-12-30,WhatsApp,Work permit,32.1,0,3,40.2
+DEMO-01558,2025-12-30,Social media,Skilled migration,1.6,0,0,46.2
+DEMO-02172,2025-12-30,Social media,Tourist,44.5,0,3,19.4
+DEMO-01055,2025-12-30,Social media,Study,7.0,0,3,34.2
+DEMO-01421,2025-12-30,WhatsApp,Skilled migration,35.9,0,5,8.5
+DEMO-03174,2025-12-30,Website,Study,45.5,0,2,4.2
+DEMO-01116,2025-12-30,Social media,Work permit,27.4,0,0,5.6
+DEMO-04421,2025-12-31,Social media,Tourist,33.5,0,3,45.4
+DEMO-01345,2025-12-31,Referral,Work permit,28.7,0,4,46.7
+DEMO-03711,2025-12-31,Referral,Work permit,37.1,0,4,3.8
+DEMO-04881,2025-12-31,Social media,Skilled migration,20.3,0,2,12.7
+DEMO-01168,2025-12-31,Social media,Tourist,28.7,0,2,17.2
+DEMO-03206,2025-12-31,WhatsApp,Work permit,47.1,0,1,9.5
+DEMO-02261,2025-12-31,Website,Work permit,1.8,0,1,46.9
+DEMO-00819,2025-12-31,Referral,Skilled migration,20.6,0,3,14.9
+DEMO-01335,2025-12-31,Website,Skilled migration,3.9,1,4,7.2
+DEMO-00400,2025-12-31,Social media,Skilled migration,17.2,0,3,22.4
+DEMO-02217,2025-12-31,Website,Work permit,4.1,1,2,30.7
+DEMO-03648,2025-12-31,Social media,Skilled migration,5.2,0,1,4.4
+DEMO-04502,2025-12-31,Website,Tourist,3.6,0,2,10.3
+DEMO-03121,2025-12-31,Social media,Work permit,21.2,0,2,4.4
