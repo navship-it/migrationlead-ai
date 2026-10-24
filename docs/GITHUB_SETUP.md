@@ -24,6 +24,4 @@ git push -u origin main
 ```
 Use GitHub's supported sign-in flow or GitHub Desktop; do not paste access tokens into the code, README or chat.
 
-## Present it honestly
-CV wording after you have run and reviewed it: “Built an independent Excel-first CRM analytics portfolio with explainable lead prioritisation, a synthetic-data ML experiment and an interactive Streamlit interface.”
-Do not label this as freelance employment at Immatrix or actual client impact unless an engagement and measured results occur. The repository is source code; uploading it alone does not deploy an interactive app. A local demonstration is sufficient for a first meeting.
+
